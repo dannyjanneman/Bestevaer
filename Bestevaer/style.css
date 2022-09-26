@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+    width:200px;
+    margin-top:150px;
+    position:absolute;
+    right:800px; 
+    color:red;
+    background-color:white;
+    border-radius:10px;
+    border:solid;
+    border-color:green;
+    background-color: aqua;
+}
